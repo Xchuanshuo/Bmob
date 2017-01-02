@@ -1,0 +1,47 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+	tools=".MainActivity"
+	>
+    <item
+        android:id="@+id/action_edit"
+  
+        android:orderInCategory="80"
+        android:title="查找"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_share"
+        android:icon="@drawable/abc_ic_menu_share_mtrl_alpha"
+        android:orderInCategory="90"
+        android:title="分享"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/test1"
+        android:orderInCategory="100"
+        android:title="普通地图"
+        app:showAsAction="never" />
+	<item
+		android:id="@+id/test2"
+        android:orderInCategory="100"
+        android:title="卫星地图"
+        app:showAsAction="never"/>
+	<item 
+		android:id="@+id/test3"
+        android:orderInCategory="100"
+        android:title="交通地图"
+        app:showAsAction="never"/>
+	<item
+		android:id="@+id/test4"
+        android:orderInCategory="100"
+        android:title="我的位置"
+        app:showAsAction="never"/>
+	<item
+		android:id="@+id/test5"
+		android:orderInCategory="100"
+		android:title="定位模式【正常】"
+		app:showAsAction="never"/>
+</menu>
+
+

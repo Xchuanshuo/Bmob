@@ -1793,18 +1793,19 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020051;
         public static final int abc_vector_test=0x7f020052;
         public static final int ic_launcher=0x7f020053;
-        public static final int notification_action_background=0x7f020054;
-        public static final int notification_bg=0x7f020055;
-        public static final int notification_bg_low=0x7f020056;
-        public static final int notification_bg_low_normal=0x7f020057;
-        public static final int notification_bg_low_pressed=0x7f020058;
-        public static final int notification_bg_normal=0x7f020059;
-        public static final int notification_bg_normal_pressed=0x7f02005a;
-        public static final int notification_icon_background=0x7f02005b;
-        public static final int notification_template_icon_bg=0x7f02005e;
-        public static final int notification_template_icon_low_bg=0x7f02005f;
-        public static final int notification_tile_bg=0x7f02005c;
-        public static final int notify_panel_notification_icon_bg=0x7f02005d;
+        public static final int navi_map_gps_locked=0x7f020054;
+        public static final int notification_action_background=0x7f020055;
+        public static final int notification_bg=0x7f020056;
+        public static final int notification_bg_low=0x7f020057;
+        public static final int notification_bg_low_normal=0x7f020058;
+        public static final int notification_bg_low_pressed=0x7f020059;
+        public static final int notification_bg_normal=0x7f02005a;
+        public static final int notification_bg_normal_pressed=0x7f02005b;
+        public static final int notification_icon_background=0x7f02005c;
+        public static final int notification_template_icon_bg=0x7f02005f;
+        public static final int notification_template_icon_low_bg=0x7f020060;
+        public static final int notification_tile_bg=0x7f02005d;
+        public static final int notify_panel_notification_icon_bg=0x7f02005e;
     }
     public static final class id {
         public static final int action0=0x7f0a0058;
@@ -1818,12 +1819,14 @@ containing a value of this type.
         public static final int action_container=0x7f0a0055;
         public static final int action_context_bar=0x7f0a0046;
         public static final int action_divider=0x7f0a005c;
+        public static final int action_edit=0x7f0a006c;
         public static final int action_image=0x7f0a0056;
         public static final int action_menu_divider=0x7f0a0002;
         public static final int action_menu_presenter=0x7f0a0003;
         public static final int action_mode_bar=0x7f0a0042;
         public static final int action_mode_bar_stub=0x7f0a0041;
         public static final int action_mode_close_button=0x7f0a0026;
+        public static final int action_share=0x7f0a006d;
         public static final int action_text=0x7f0a0057;
         public static final int actions=0x7f0a0065;
         public static final int activity_chooser_view_content=0x7f0a0027;
@@ -1903,6 +1906,11 @@ containing a value of this type.
         public static final int submenuarrow=0x7f0a003f;
         public static final int submit_area=0x7f0a0050;
         public static final int tabMode=0x7f0a000b;
+        public static final int test1=0x7f0a006e;
+        public static final int test2=0x7f0a006f;
+        public static final int test3=0x7f0a0070;
+        public static final int test4=0x7f0a0071;
+        public static final int test5=0x7f0a0072;
         public static final int text=0x7f0a006a;
         public static final int text2=0x7f0a0068;
         public static final int textSpacerNoButtons=0x7f0a0037;
@@ -1969,6 +1977,9 @@ containing a value of this type.
         public static final int select_dialog_multichoice_material=0x7f03002b;
         public static final int select_dialog_singlechoice_material=0x7f03002c;
         public static final int support_simple_spinner_dropdown_item=0x7f03002d;
+    }
+    public static final class menu {
+        public static final int menu_item=0x7f0c0000;
     }
     public static final class string {
         public static final int abc_action_bar_home_description=0x7f050000;

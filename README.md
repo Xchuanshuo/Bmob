@@ -1,4 +1,3 @@
 # BmobTest
 Author:丶Legend
-#email
-aixs241460@gmail.com
+Email: aixs241460@gmail.com
